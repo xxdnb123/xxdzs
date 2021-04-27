@@ -25,8 +25,11 @@ a numbered list:
 2. 第二项  
 3. 第三项   
 a table:  
-1. main  
-    1.main1.2  
-2. main2  
-    1. mian2.1  
+ | a | b | c |  
+ |---|---|---|  
+ | d | e | f |
+  
+
+
+
  
