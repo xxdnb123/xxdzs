@@ -32,7 +32,10 @@ a table:
  |---|---|---|  
  | d | e | f |
   
-**bolded text**
+**bolded text**  
 
+*italicized text*  
 
- 
+~~strikethrough text~~
+  
+ <u>a horizontal rule like the one that follows this list</u>
