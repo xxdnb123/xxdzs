@@ -36,6 +36,8 @@ a table:
 
 *italicized text*  
 
-~~strikethrough text~~
+~~strikethrough text~~  
+
   
- <u>a horizontal rule like the one that follows this list</u>
+***
+
